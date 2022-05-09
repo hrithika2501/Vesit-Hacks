@@ -1,16 +1,7 @@
 # event_manage
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Handle Events Repository and share upcoming events with Student Body.
+2. Allow students to view and register for an event.
+3. Created for the 2-day hackathon VESIT-Hacks.
+4. Integrated Flutter Application with Node.js Backend.
+5. Handled Simple and Complex CRUD operation on SQL Database.
